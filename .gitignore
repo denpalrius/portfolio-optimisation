@@ -1,0 +1,25 @@
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+.DS_Store
+Thumbs.db
+
+# Data files
+data/**
