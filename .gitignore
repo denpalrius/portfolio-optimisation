@@ -22,3 +22,9 @@ Thumbs.db
 
 # Data files
 data/**
+
+# Experiments
+experiments/**
+
+# Libraries
+FinRL/**
