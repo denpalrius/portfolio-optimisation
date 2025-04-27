@@ -1,0 +1,2 @@
+A2C: 186.28 seconds
+PPO: 169.63 seconds
