@@ -25,6 +25,7 @@ data/**
 
 # Experiments
 experiments/**
+zz__**
 
 # Libraries
 FinRL/**

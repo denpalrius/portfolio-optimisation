@@ -1,0 +1,4 @@
+A2C: 3.62 seconds
+PPO: 3.07 seconds
+SAC: 46.64 seconds
+DDPG: 38.40 seconds
