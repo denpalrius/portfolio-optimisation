@@ -1,2 +1,2 @@
 model,training_duration (min)
-TD3,110.80984275341034
+DDPG,0.0010908166567484537
