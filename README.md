@@ -2,7 +2,7 @@
 
 A modular implementation of deep reinforcement learning for portfolio optimization using Stable-Baselines3 and FinRL. It supports:
 
-- **MLP, EIIE, EI³** policy architectures
+- **MLP, EIIE, EI3** policy architectures
 - **A2C, PPO, SAC, DDPG, TD3** algorithms
 - **Realistic trading constraints** (transaction costs, slippage, liquidity caps, budget limits)
 - **Train / (validate) / test** splits with an automated evaluation callback
